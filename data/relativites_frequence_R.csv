@@ -1,0 +1,12 @@
+"variable","coefficient","relativite"
+"(Intercept)",-3.6712,0.025
+"zone2",0.2545,1.29
+"zone3",0.5321,1.702
+"zone4",0.7463,2.109
+"classe_age25-34",-0.1575,0.854
+"classe_age35-59",-0.5053,0.603
+"classe_age60+",-0.1627,0.85
+"puissanceB",0.2349,1.265
+"puissanceC",0.3843,1.469
+"puissanceD",0.627,1.872
+"bonus_malus",1.1577,3.183
