@@ -221,4 +221,4 @@ with tab_solva:
     fig.update_yaxes(tickformat=",.0f", title="Flux (€)")
     show(style_fig(fig, 320))
 
-st.caption("Pile technique : R · SAS (DATA step, PROC SQL, PROC GENMOD) · Shiny · cette page en Python / Streamlit.")
+st.caption("Cisse NIANG : Actuaire Data Scientist")
