@@ -59,3 +59,14 @@ st.html(
     + "</div>"
 )
 st.page_link("views/projet_actuariat.py", label="Explorer les résultats en détail", icon=":material/arrow_forward:")
+
+section("Autre projet")
+st.html(
+    '<div class="card"><h3>Détection de fraude à l\'assurance auto</h3>'
+    "<p>Pipeline de classification (Régression logistique, Random Forest, XGBoost) sur "
+    "11 565 sinistres réels, avec gestion du déséquilibre de classe par "
+    "sur-échantillonnage et déploiement en application Streamlit interactive.</p>"
+    + chips(["Python", "scikit-learn", "XGBoost", "Pandas", "Streamlit", "Machine Learning"])
+    + "</div>"
+)
+st.page_link("views/projet_fraude.py", label="Explorer les résultats en détail", icon=":material/arrow_forward:")

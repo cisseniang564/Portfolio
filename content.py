@@ -121,6 +121,6 @@ COMPETENCES = [
     ("Solvabilité II", ["Best Estimate", "SCR (marché, CAT)", "QRT (dont S.19.01)", "Piliers 1 et 2"]),
     ("Outils actuariels", ["Addactis Modeling", "Addactis DataFlow", "Addactis One", "Addactis IBNRs", "ResQ"]),
     ("Data & langages", ["SAS (certifié)", "SQL", "Python", "R", "VBA", "Stata"]),
-    ("Machine learning", ["scikit-learn", "pandas", "NumPy", "Keras", "TensorFlow", "PyTorch"]),
+    ("Machine learning", ["scikit-learn", "XGBoost", "pandas", "NumPy", "Keras", "TensorFlow", "PyTorch"]),
     ("BI & applications", ["Power BI", "RShiny", "Streamlit", "MySQL", "Excel avancé"]),
 ]
